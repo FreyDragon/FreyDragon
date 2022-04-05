@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"War",
+			"furry",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": true,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Enjoy this short song!",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "weekh",
+	"startUnlocked": false
+}

@@ -1,0 +1,99 @@
+{
+	"song": {
+		"speed": 1.4,
+		"stage": null,
+		"player1": "bf",
+		"player2": "furry",
+		"player3": null,
+		"events": [
+			[
+				900,
+				[
+					[
+						"MoveArrow",
+						"5",
+						"0, 100, 0, 0.5, 0.5"
+					]
+				]
+			],
+			[
+				1050,
+				[
+					[
+						"MoveArrow",
+						"4",
+						"-50, 0, 0, 0.5, 0.5"
+					]
+				]
+			],
+			[
+				1200,
+				[
+					[
+						"MoveArrow",
+						"6",
+						"0, -50, 0, 0.5, 0.5"
+					]
+				]
+			],
+			[
+				1350,
+				[
+					[
+						"MoveArrow",
+						"7",
+						"50, 20, 0, 0.5, 0.5"
+					]
+				]
+			],
+			[
+				15600,
+				[
+					[
+						"MoveArrow",
+						"4",
+						"50, 20, 0, 0, 0.5"
+					]
+				]
+			],
+			[
+				15750,
+				[
+					[
+						"MoveArrow",
+						"5",
+						"50, 20, 0, 0, 0.5"
+					]
+				]
+			],
+			[
+				15900,
+				[
+					[
+						"MoveArrow",
+						"6",
+						"50, 20, 0, 0, 0.5"
+					]
+				]
+			],
+			[
+				16050,
+				[
+					[
+						"MoveArrow",
+						"7",
+						"50, 20, 0, 0, 0.5"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 100,
+		"arrowSkin": null,
+		"needsVoices": false,
+		"song": "War"
+	}
+}
